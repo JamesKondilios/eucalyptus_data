@@ -1,0 +1,212 @@
+\documentclass{beamer}
+%\setbeamertemplate{note page}[mynotes]
+%\usepackage{pgfpages}
+%\setbeameroption{show notes on second screen}
+%\setbeamertemplate{note page}[plain]
+\usepackage{beamerthemesplit}
+\usepackage[margin=15pt,font={small,sf,it},labelfont=bf]{caption}
+\setbeamertemplate{navigation symbols}{}  % suppress all navigation symbols
+\usepackage{graphicx}
+\setbeamersize{text margin left=0.5cm,text margin right=0.5cm} 
+\usepackage{tikz}
+
+\title[Eucalyptus Data Tracking]{Tracking the eulusive Eucalyptus data}
+\author{Megan Supple}
+\date{April 2015}
+
+
+\begin{document}
+
+
+
+\section{assigned ID numbers}
+\frame{
+	\frametitle{Eucalyptus ID numbers}
+	\begin{itemize}
+		\item accessions: A20001--A30000
+		\begin{itemize}
+			\item E. marginata  A20001-A25000
+			\item E. melliodora A25001-A30000
+		\end{itemize}
+		\item plants: P30001-P40000
+		\begin{itemize}
+			\item E. marginata  P30001-P35000
+			\item E. melliodora P35001-P40000
+		\end{itemize}
+		\item samples: S40001-S50000
+		\begin{itemize}
+			\item E. marginata  S40001-S45000
+			\item E. melliodora S45001-S50000
+		\end{itemize}
+		\item experiments
+		\begin{itemize}
+			\item BVZ0057 \& BVZ0058 (E. melliodora germination)
+			\item BVZ0059 \& BVZ0060 (E. melliodora growth)
+			\item (previous experiment 21, with plants 5301--5459)
+		\end{itemize}
+	\end{itemize}
+}
+
+
+
+\section{E. melliodora}
+
+\frame{
+	\frametitle{Sample List--E. melliodora}
+	\begin{itemize}
+		\item *** leaf tissue from provenance trials ***
+		\item *** adult leaf tissue from Linda ***
+		\item seedlings (seeds from Linda/ATSC, Tricia grew)
+		\item adult leaves from Jan 2015 collecting trip
+		\item old half plate of adult trees from Linda
+		\item samples collected by Nicholas
+		\item Amanda's collection
+	\end{itemize}
+}
+
+\frame{
+	\frametitle{Provenanace Trials--E. melliodora}
+	\begin{itemize}
+		\item leaf samples from trees from provenance trials
+		\begin{itemize}
+			\item 20 provenances
+			\item 2 sites
+			\item 12 replicates of provenance per site
+		\end{itemize} 
+		\item SampleIDs = S45911 -- S46390
+		\item sequenced with GBS (PstI)
+		\item 5 plates, sequenced in 1 lane, twice on the NextSeq
+		\begin{itemize}
+			\item LaneNames=Emel\_prov\_rep1, Emel\_prov\_rep2
+			\item LaneNumber=L00006, L00007
+		\end{itemize}
+		\item XXX samples for analysis
+		\begin{itemize}
+			\item 480 samples total
+			\item XXX failed during sequencing
+		\end{itemize}	
+	\end{itemize}
+}
+
+\frame{
+	\frametitle{Leaves from Linda's Populations--E. melliodora}
+	\begin{itemize}
+		\item leaf samples from mature trees across the range
+		\begin{itemize}
+			\item 39 populations, 3-10 trees per population (most have 10)
+			\item one population is geographic outlier (WA)
+			\item all 10 of 1 population misidentified
+			\item 8 of 10 of another population misidentified
+		\end{itemize}
+		\item SampleIDs = S45001 -- S45379
+		\item sequenced with GBS (PstI)
+		\item 4 plates, sequenced in 1 lane
+		\begin{itemize}
+			\item LaneName=Emel\_lb1234
+			\item LaneNumber=L00002			
+		\end{itemize}
+		\item XXX samples for analysis
+		\begin{itemize}
+			\item 379 samples total
+			\item 11 samples failed during sequencing
+			\item 19 samples likely not yellowbox
+		\end{itemize}	
+	\end{itemize}
+}
+
+\frame{
+	\frametitle{Tricia's seedlings--E. melliodora}
+	\begin{itemize}
+		\item seedlings grown in glasshouse
+		\item seeds mostly from Linda's Populations
+		\item SampleIDs = S45380 -- S45910
+		\item sequenced with GBS (PstI)
+		\item 6 plates, sequenced in 2 lanes
+		\begin{itemize}
+			\item LaneNames=Emel\_lb003AB\_Brachy, Emel\_lb56910
+			\item LaneNumbers=L00004, L00005
+		\end{itemize}
+		\item 531 samples total
+		\item each lane had different size selection
+		\item two plates had substantial (~10\%) contamination		
+	\end{itemize}
+}
+
+
+
+\frame{
+	\frametitle{miscellaneous samples--E. melliodora}
+	\begin{itemize}
+		\item NSW Jan 2015 collecting trip
+		\begin{itemize}
+			\item gps coordinates, some seed
+			\item not confident in species IDs
+		\end{itemize}
+		\item other collections
+		\begin{itemize}
+			\item samples from Linda
+			\item samples from Nicholas 
+			\item samples from Amanda
+		\end{itemize}
+	\end{itemize}
+}
+
+
+\section{E. marginata}
+
+\frame{
+	\frametitle{Project List--E. marginata}
+	\begin{itemize}
+		\item leaf tissue from climatic transects
+		\item leaf tissue from provenance trials
+	\end{itemize}
+}
+
+\frame{
+	\frametitle{WA Climate Transects--E. marginata}
+	\begin{itemize}
+		\item leaf samples from transects across climate gradients
+		\begin{itemize}
+			\item 5 transects
+			\item 10 multiple sample sites on transects
+		\end{itemize}
+		\item SampleIDs = S40162 -- S40447
+		\item sequenced with GBS (PstI)
+		\item 3 plates, sequenced in 1 lane (with brachy)
+		\begin{itemize}
+			\item LaneName=Emarg\_trans345\_Brachy
+			\item LaneNumber=L00003
+		\end{itemize}
+		\item XXX samples for analysis
+		\begin{itemize}
+			\item 286 samples total 
+			\item XXX failed during sequencing
+			\item XXX were not E. marginata
+			\item XX technical replicates
+		\end{itemize}		
+	\end{itemize}
+}
+
+\frame{
+	\frametitle{Provenance Trial Collections--E. marginata}
+	\begin{itemize}
+		\item leaf samples from provenance trials
+		\item sampleIDs = S40001 -- S40161
+		\item sequenced with GBS (PstI)
+		\item 2 plates, in 1 lane (with alongifolia)
+		\begin{itemize}
+			\item LaneName=Emarg\_prov12\_Along
+			\item LaneNumber=L00001
+		\end{itemize}	
+		\item 161 samples
+		\begin{itemize}
+			\item do not have provenance information
+		\end{itemize}
+	\end{itemize}
+}
+
+
+
+
+\end{document}
+
