@@ -1,4 +1,4 @@
-PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,actualSampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,notes,actual_population,latitude,longitude,SampleName,population,WEpopulationWE
+PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,SampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,Notes,actual_population,latitude,longitude,xSampleName,population,WEpopulationWE
 ,,,,,,,,,S40446,BB1,leaf,Emarginata_Plate5_2014,F12,3031,,failed,o,-32.80483,116.22238,BB1_o,,5
 ,,,,,,,,,S40444,JS1,leaf,Emarginata_Plate5_2014,D12,2977,,failed,o,-34.07252,116.59293,JS1_o,,8
 ,,,,,,,,,S40178,M1,leaf,Emarginata_Plate3_2014,A3,3030,,outlier,o,-32.80471,116.22239,M1_o,,5
@@ -217,7 +217,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S40434,LT56,leaf,Emarginata_Plate5_2014,B11,2750,,,T3,-33.36501,116.38746,LT56_T3,C,6
 ,,,,,,,,,S40338,LT57,leaf,Emarginata_Plate4_2014,B11,2749,,,T3,-33.37779,116.34279,LT57_T3,C,6
 ,,,,,,,,,S40168,LT58,leaf,Emarginata_Plate3_2014,G1,2747,,,T3,-33.37698,116.25771,LT58_T3,C,5
-,,,,,,,,,S40280,LT58NR,leaf,Emarginata_Plate4_2014,H3,2748,,'duplicated number, not a technical replicate',T3,-33.37198,116.2977,LT58R_T3,C,5
+,,,,,,,,,S40280,LT58NR,leaf,Emarginata_Plate4_2014,H3,2748,,duplicated number not a technical replicate,T3,-33.37198,116.2977,LT58R_T3,C,5
 ,,,,,,,,,S40427,LT59,leaf,Emarginata_Plate5_2014,C10,2746,,,T3,-33.37497,116.21679,LT59_T3,C,5
 ,,,,,,,,,S40199,LT60,leaf,Emarginata_Plate3_2014,F5,2745,,,T3,-33.33883,116.10004,LT60_T3,C,4
 ,,,,,,,,,S40234,LT61,leaf,Emarginata_Plate3_2014,A10,2744,,,T3,-33.3251,116.02615,LT61_T3,C,3
