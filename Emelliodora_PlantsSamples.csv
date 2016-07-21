@@ -1,5 +1,5 @@
 PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,SampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,Notes
-blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,empty,control,Emel003A,B7,empty,,
+blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,empty,control,Emel003A,B7,empty,none,
 P35001,LB-U-1,A25001,LB-U-1,none,none,nature,wild,none,S45001,U-1,leaf,Emelliodora_LB_Block1,A1,U1,none,
 P35002,LB-U-2,A25002,LB-U-2,none,none,nature,wild,none,S45002,U-2,leaf,Emelliodora_LB_Block1,B1,U2,none,
 P35003,LB-U-3,A25003,LB-U-3,none,none,nature,wild,none,S45003,U-3,leaf,Emelliodora_LB_Block1,C1,U3,none,
