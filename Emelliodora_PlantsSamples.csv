@@ -917,10 +917,10 @@ P35891,JUN-1-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-1-4,S45914,JUN-1-A,lea
 P35892,MUL-1-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-1-5,S45915,MUL-1-A,leaf,Emelliodora_LB_Block09,E1,jg-1-5,none,
 P35893,CON-2-A,A25387,CON,none,emel_prov,nature,Jugiong,A-1-6,S45916,CON-2-A,leaf,Emelliodora_LB_Block09,F1,jg-1-6,none,
 P35894,EUB-1-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-1-7,S45917,EUB-1-A,leaf,Emelliodora_LB_Block09,G1,jg-1-7,none,
-P35895,BER-1-A,A25386,BER,none,emel_prov,nature,Jugiong,A-1-8,S45918,BER-1-A,leaf,Emelliodora_LB_Block09,H1,jg-1-8,none,
+P35895,BER-1-A,A25386,BER,none,emel_prov,nature,Jugiong,A-1-8,S45918,BER-1-A,leaf,Emelliodora_LB_Block09,H1,jg-1-8,none,failed—too few reads
 P35896,WAB-1-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-1-9,S45919,WAB-1-A,leaf,Emelliodora_LB_Block09,A2,jg-1-9,none,
 P35897,MAR-1-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-1-10,S45920,MAR-1-A,leaf,Emelliodora_LB_Block09,B2,jg-1-10,none,
-P35898,BAR-2-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-1-11,S45921,BAR-2-A,leaf,Emelliodora_LB_Block09,C2,jg-1-11,none,
+P35898,BAR-2-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-1-11,S45921,BAR-2-A,leaf,Emelliodora_LB_Block09,C2,jg-1-11,none,failed—too few loci
 P35899,TEM-1-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-1-12,S45922,TEM-1-A,leaf,Emelliodora_LB_Block09,D2,jg-1-12,none,
 P35900,HAR-2-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-1-13,S45923,HAR-2-A,leaf,Emelliodora_LB_Block09,E2,jg-1-13,none,
 P35901,CON-1-A,A25387,CON,none,emel_prov,nature,Jugiong,A-1-14,S45924,CON-1-A,leaf,Emelliodora_LB_Block09,F2,jg-1-14,none,
@@ -944,13 +944,13 @@ P35918,HOLB-1-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-1-31,S45941,HOLB-1-A
 P35919,GUN-3-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-1-32,S45942,GUN-3-A,leaf,Emelliodora_LB_Block09,H4,jg-1-32,none,
 P35920,EUB-2-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-1-33,S45943,EUB-2-A,leaf,Emelliodora_LB_Block09,A5,jg-1-33,none,
 P35921,HAR-1-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-1-34,S45944,HAR-1-A,leaf,Emelliodora_LB_Block09,B5,jg-1-34,none,
-P35922,MUL-2-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-1-35,S45945,MUL-2-A,leaf,Emelliodora_LB_Block09,C5,jg-1-35,none,
+P35922,MUL-2-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-1-35,S45945,MUL-2-A,leaf,Emelliodora_LB_Block09,C5,jg-1-35,none,failed—too few loci
 P35923,HOLB-2-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-1-36,S45946,HOLB-2-A,leaf,Emelliodora_LB_Block09,D5,jg-1-36,none,
 P35924,TEM-3-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-1-37,S45947,TEM-3-A,leaf,Emelliodora_LB_Block09,E5,jg-1-37,none,
 P35925,MAJ-2-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-1-38,S45948,MAJ-2-A,leaf,Emelliodora_LB_Block09,F5,jg-1-38,none,
 P35926,JER-2-A,A25389,JER,none,emel_prov,nature,Jugiong,A-1-39,S45949,JER-2-A,leaf,Emelliodora_LB_Block09,G5,jg-1-39,none,
 P35927,MOR-2-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-1-40,S45950,MOR-2-A,leaf,Emelliodora_LB_Block09,H5,jg-1-40,none,
-P35928,MOR-1-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-1-41,S45951,MOR-1-A,leaf,Emelliodora_LB_Block09,A6,jg-1-41,none,
+P35928,MOR-1-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-1-41,S45951,MOR-1-A,leaf,Emelliodora_LB_Block09,A6,jg-1-41,none,failed—too few loci
 P35929,RYE-2-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-1-42,S45952,RYE-2-A,leaf,Emelliodora_LB_Block09,B6,jg-1-42,none,
 P35930,COL-2-A,A25384,COL,none,emel_prov,nature,Jugiong,A-1-43,S45953,COL-2-A,leaf,Emelliodora_LB_Block09,C6,jg-1-43,none,
 P35931,WAL-1-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-1-44,S45954,WAL-1-A,leaf,Emelliodora_LB_Block09,D6,jg-1-44,none,
@@ -958,15 +958,15 @@ P35932,MAR-2-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-1-45,S45955,MAR-2-A,le
 P35933,WAB-3-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-1-46,S45956,WAB-3-A,leaf,Emelliodora_LB_Block09,F6,jg-1-46,none,
 P35934,GUN-1-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-1-47,S45957,GUN-1-A,leaf,Emelliodora_LB_Block09,G6,jg-1-47,none,
 P35935,BER-2-A,A25386,BER,none,emel_prov,nature,Jugiong,A-1-48,S45958,BER-2-A,leaf,Emelliodora_LB_Block09,H6,jg-1-48,none,
-P35936,BER-3-A,A25386,BER,none,emel_prov,nature,Jugiong,A-2-1,S45959,BER-3-A,leaf,Emelliodora_LB_Block09,A7,jg-2-1,none,
+P35936,BER-3-A,A25386,BER,none,emel_prov,nature,Jugiong,A-2-1,S45959,BER-3-A,leaf,Emelliodora_LB_Block09,A7,jg-2-1,none,failed—too few loci
 P35937,HAR-5-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-2-2,S45960,HAR-5-A,leaf,Emelliodora_LB_Block09,B7,jg-2-2,none,
 P35938,HOLA-4-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-2-3,S45961,HOLA-4-A,leaf,Emelliodora_LB_Block09,C7,jg-2-3,none,
-P35939,RYE-4-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-4,S45962,RYE-4-A,leaf,Emelliodora_LB_Block09,D7,jg-2-4,none,
+P35939,RYE-4-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-4,S45962,RYE-4-A,leaf,Emelliodora_LB_Block09,D7,jg-2-4,none,failed—too few reads
 P35940,MAR-3-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-2-5,S45963,MAR-3-A,leaf,Emelliodora_LB_Block09,E7,jg-2-5,none,
 P35941,JUN-3-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-2-6,S45964,JUN-3-A,leaf,Emelliodora_LB_Block09,F7,jg-2-6,none,
 P35942,MUL-4-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-2-7,S45965,MUL-4-A,leaf,Emelliodora_LB_Block09,G7,jg-2-7,none,
 P35943,RYE-5-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-8,S45966,RYE-5-A,leaf,Emelliodora_LB_Block09,H7,jg-2-8,none,
-P35944,TEM-6-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-2-9,S45967,TEM-6-A,leaf,Emelliodora_LB_Block09,A8,jg-2-9,none,
+P35944,TEM-6-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-2-9,S45967,TEM-6-A,leaf,Emelliodora_LB_Block09,A8,jg-2-9,none,failed—too few loci
 P35945,GUN-5-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-2-10,S45968,GUN-5-A,leaf,Emelliodora_LB_Block09,B8,jg-2-10,none,
 P35946,EUB-4-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-2-11,S45969,EUB-4-A,leaf,Emelliodora_LB_Block09,C8,jg-2-11,none,
 P35947,COL-3-A,A25384,COL,none,emel_prov,nature,Jugiong,A-2-12,S45970,COL-3-A,leaf,Emelliodora_LB_Block09,D8,jg-2-12,none,
@@ -974,7 +974,7 @@ P35948,DIC-4-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-2-13,S45971,DIC-4-A,le
 P35949,HOLB-4-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-2-14,S45972,HOLB-4-A,leaf,Emelliodora_LB_Block09,F8,jg-2-14,none,
 P35950,BER-5-A,A25386,BER,none,emel_prov,nature,Jugiong,A-2-15,S45973,BER-5-A,leaf,Emelliodora_LB_Block09,G8,jg-2-15,none,
 P35951,WAL-4-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-2-16,S45974,WAL-4-A,leaf,Emelliodora_LB_Block09,H8,jg-2-16,none,
-P35952,MOR-3-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-2-17,S45975,MOR-3-A,leaf,Emelliodora_LB_Block09,A9,jg-2-17,none,
+P35952,MOR-3-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-2-17,S45975,MOR-3-A,leaf,Emelliodora_LB_Block09,A9,jg-2-17,none,failed—too few loci
 P35953,JER-3-A,A25389,JER,none,emel_prov,nature,Jugiong,A-2-18,S45976,JER-3-A,leaf,Emelliodora_LB_Block09,B9,jg-2-18,none,
 P35954,DIC-3-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-2-19,S45977,DIC-3-A,leaf,Emelliodora_LB_Block09,C9,jg-2-19,none,
 P35955,DIC-5-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-2-20,S45978,DIC-5-A,leaf,Emelliodora_LB_Block09,D9,jg-2-20,none,
@@ -982,7 +982,7 @@ P35956,MAR-4-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-2-21,S45979,MAR-4-A,le
 P35957,HOLA-3-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-2-22,S45980,HOLA-3-A,leaf,Emelliodora_LB_Block09,F9,jg-2-22,none,
 P35958,GUN-4-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-2-23,S45981,GUN-4-A,leaf,Emelliodora_LB_Block09,G9,jg-2-23,none,
 P35959,TEM-5-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-2-24,S45982,TEM-5-A,leaf,Emelliodora_LB_Block09,H9,jg-2-24,none,
-P35960,RYE-6-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-25,S45983,RYE-6-A,leaf,Emelliodora_LB_Block09,A10,jg-2-25,none,
+P35960,RYE-6-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-25,S45983,RYE-6-A,leaf,Emelliodora_LB_Block09,A10,jg-2-25,none,failed—too few loci
 P35961,MAJ-4-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-2-26,S45984,MAJ-4-A,leaf,Emelliodora_LB_Block09,B10,jg-2-26,none,
 P35962,JUN-4-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-2-27,S45985,JUN-4-A,leaf,Emelliodora_LB_Block09,C10,jg-2-27,none,
 P35963,COL-5-A,A25384,COL,none,emel_prov,nature,Jugiong,A-2-28,S45986,COL-5-A,leaf,Emelliodora_LB_Block09,D10,jg-2-28,none,
@@ -1005,7 +1005,7 @@ P35979,CON-4-A,A25387,CON,none,emel_prov,nature,Jugiong,A-2-44,S46002,CON-4-A,le
 P35980,HOLB-3-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-2-45,S46003,HOLB-3-A,leaf,Emelliodora_LB_Block09,E12,jg-2-45,none,
 P35981,CON-3-A,A25387,CON,none,emel_prov,nature,Jugiong,A-2-46,S46004,CON-3-A,leaf,Emelliodora_LB_Block09,F12,jg-2-46,none,
 P35982,BAR-3-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-2-47,S46005,BAR-3-A,leaf,Emelliodora_LB_Block09,G12,jg-2-47,none,
-P35983,WAB-4-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-2-48,S46006,WAB-4-A,leaf,Emelliodora_LB_Block09,H12,jg-2-48,none,
+P35983,WAB-4-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-2-48,S46006,WAB-4-A,leaf,Emelliodora_LB_Block09,H12,jg-2-48,none,failed—no reads
 P35984,DIC-6-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-3-1,S46007,DIC-6-A,leaf,Emelliodora_LB_Block10,A1,jg-3-1,none,
 P35985,JUN-5-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-3-2,S46008,JUN-5-A,leaf,Emelliodora_LB_Block10,B1,jg-3-2,none,
 P35986,EUB-7-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-3-3,S46009,EUB-7-A,leaf,Emelliodora_LB_Block10,C1,jg-3-3,none,
@@ -1013,14 +1013,14 @@ P35987,CON-6-A,A25387,CON,none,emel_prov,nature,Jugiong,A-3-4,S46010,CON-6-A,lea
 P35988,JUN-6-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-3-5,S46011,JUN-6-A,leaf,Emelliodora_LB_Block10,E1,jg-3-5,none,
 P35989,BAR-6-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-3-6,S46012,BAR-6-A,leaf,Emelliodora_LB_Block10,F1,jg-3-6,none,
 P35990,MAJ-6-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-3-7,S46013,MAJ-6-A,leaf,Emelliodora_LB_Block10,G1,jg-3-7,none,
-P35991,WAB-7-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-3-8,S46014,WAB-7-A,leaf,Emelliodora_LB_Block10,H1,jg-3-8,none,
+P35991,WAB-7-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-3-8,S46014,WAB-7-A,leaf,Emelliodora_LB_Block10,H1,jg-3-8,none,failed—too few reads
 P35992,TEM-8-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-3-9,S46015,TEM-8-A,leaf,Emelliodora_LB_Block10,A2,jg-3-9,none,
 P35993,HOLA-7-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-3-10,S46016,HOLA-7-A,leaf,Emelliodora_LB_Block10,B2,jg-3-10,none,
-P35994,JER-6-A,A25389,JER,none,emel_prov,nature,Jugiong,A-3-11,S46017,JER-6-A,leaf,Emelliodora_LB_Block10,C2,jg-3-11,none,
-P35995,MAR-5-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-3-12,S46018,MAR-5-A,leaf,Emelliodora_LB_Block10,D2,jg-3-12,none,
-P35996,MAJ-7-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-3-13,S46019,MAJ-7-A,leaf,Emelliodora_LB_Block10,E2,jg-3-13,none,
-P35997,GUN-6-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-3-14,S46020,GUN-6-A,leaf,Emelliodora_LB_Block10,F2,jg-3-14,none,
-P35998,MUL-6-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-3-15,S46021,MUL-6-A,leaf,Emelliodora_LB_Block10,G2,jg-3-15,none,
+P35994,JER-6-A,A25389,JER,none,emel_prov,nature,Jugiong,A-3-11,S46017,JER-6-A,leaf,Emelliodora_LB_Block10,C2,jg-3-11,none,failed—too few loci
+P35995,MAR-5-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-3-12,S46018,MAR-5-A,leaf,Emelliodora_LB_Block10,D2,jg-3-12,none,failed—too few reads
+P35996,MAJ-7-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-3-13,S46019,MAJ-7-A,leaf,Emelliodora_LB_Block10,E2,jg-3-13,none,failed—too few loci
+P35997,GUN-6-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-3-14,S46020,GUN-6-A,leaf,Emelliodora_LB_Block10,F2,jg-3-14,none,failed—too few reads
+P35998,MUL-6-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-3-15,S46021,MUL-6-A,leaf,Emelliodora_LB_Block10,G2,jg-3-15,none,failed—too few reads
 P35999,HOLA-5-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-3-16,S46022,HOLA-5-A,leaf,Emelliodora_LB_Block10,H2,jg-3-16,none,
 P36000,HOLB-6-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-3-17,S46023,HOLB-6-A,leaf,Emelliodora_LB_Block10,A3,jg-3-17,none,
 P36001,JER-7-A,A25389,JER,none,emel_prov,nature,Jugiong,A-3-18,S46024,JER-7-A,leaf,Emelliodora_LB_Block10,B3,jg-3-18,none,
@@ -1040,29 +1040,29 @@ P36014,HOLB-7-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-3-31,S46037,HOLB-7-A
 P36015,MOR-5-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-3-32,S46038,MOR-5-A,leaf,Emelliodora_LB_Block10,H4,jg-3-32,none,
 P36016,CON-5-A,A25387,CON,none,emel_prov,nature,Jugiong,A-3-33,S46039,CON-5-A,leaf,Emelliodora_LB_Block10,A5,jg-3-33,none,
 P36017,WAB-6-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-3-34,S46040,WAB-6-A,leaf,Emelliodora_LB_Block10,B5,jg-3-34,none,
-P36018,WAL-7-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-3-35,S46041,WAL-7-A,leaf,Emelliodora_LB_Block10,C5,jg-3-35,none,
+P36018,WAL-7-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-3-35,S46041,WAL-7-A,leaf,Emelliodora_LB_Block10,C5,jg-3-35,none,failed—too few loci
 P36019,HOLB-8-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-3-36,S46042,HOLB-8-A,leaf,Emelliodora_LB_Block10,D5,jg-3-36,none,
 P36020,COL-7-A,A25384,COL,none,emel_prov,nature,Jugiong,A-3-37,S46043,COL-7-A,leaf,Emelliodora_LB_Block10,E5,jg-3-37,none,
 P36021,WAL-6-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-3-38,S46044,WAL-6-A,leaf,Emelliodora_LB_Block10,F5,jg-3-38,none,
 P36022,EUB-8-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-3-39,S46045,EUB-8-A,leaf,Emelliodora_LB_Block10,G5,jg-3-39,none,
 P36023,MUL-7-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-3-40,S46046,MUL-7-A,leaf,Emelliodora_LB_Block10,H5,jg-3-40,none,
-P36024,HAR-7-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-3-41,S46047,HAR-7-A,leaf,Emelliodora_LB_Block10,A6,jg-3-41,none,
+P36024,HAR-7-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-3-41,S46047,HAR-7-A,leaf,Emelliodora_LB_Block10,A6,jg-3-41,none,failed—too few loci
 P36025,DIC-8-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-3-42,S46048,DIC-8-A,leaf,Emelliodora_LB_Block10,B6,jg-3-42,none,
 P36026,COL-8-A,A25384,COL,none,emel_prov,nature,Jugiong,A-3-43,S46049,COL-8-A,leaf,Emelliodora_LB_Block10,C6,jg-3-43,none,
 P36027,MOR-6-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-3-44,S46050,MOR-6-A,leaf,Emelliodora_LB_Block10,D6,jg-3-44,none,
-P36028,TEM-7-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-3-45,S46051,TEM-7-A,leaf,Emelliodora_LB_Block10,E6,jg-3-45,none,
+P36028,TEM-7-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-3-45,S46051,TEM-7-A,leaf,Emelliodora_LB_Block10,E6,jg-3-45,none,failed—too few loci
 P36029,RYE-7-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-3-46,S46052,RYE-7-A,leaf,Emelliodora_LB_Block10,F6,jg-3-46,none,
 P36030,RYE-8-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-3-47,S46053,RYE-8-A,leaf,Emelliodora_LB_Block10,G6,jg-3-47,none,
 P36031,GUN-7-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-3-48,S46054,GUN-7-A,leaf,Emelliodora_LB_Block10,H6,jg-3-48,none,
-P36032,MAJ-9-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-4-1,S46055,MAJ-9-A,leaf,Emelliodora_LB_Block10,A7,jg-4-1,none,
+P36032,MAJ-9-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-4-1,S46055,MAJ-9-A,leaf,Emelliodora_LB_Block10,A7,jg-4-1,none,failed—too few loci
 P36033,JER-9-A,A25389,JER,none,emel_prov,nature,Jugiong,A-4-2,S46056,JER-9-A,leaf,Emelliodora_LB_Block10,B7,jg-4-2,none,
 P36034,HOLB-9-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-4-3,S46057,HOLB-9-A,leaf,Emelliodora_LB_Block10,C7,jg-4-3,none,
-P36035,CON-8-A,A25387,CON,none,emel_prov,nature,Jugiong,A-4-4,S46058,CON-8-A,leaf,Emelliodora_LB_Block10,D7,jg-4-4,none,
+P36035,CON-8-A,A25387,CON,none,emel_prov,nature,Jugiong,A-4-4,S46058,CON-8-A,leaf,Emelliodora_LB_Block10,D7,jg-4-4,none,failed—too few loci
 P36036,BAR-8-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-4-5,S46059,BAR-8-A,leaf,Emelliodora_LB_Block10,E7,jg-4-5,none,
 P36037,EUB-9-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-4-6,S46060,EUB-9-A,leaf,Emelliodora_LB_Block10,F7,jg-4-6,none,
 P36038,DIC-9-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-4-7,S46061,DIC-9-A,leaf,Emelliodora_LB_Block10,G7,jg-4-7,none,
 P36039,RYE-9-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-4-8,S46062,RYE-9-A,leaf,Emelliodora_LB_Block10,H7,jg-4-8,none,
-P36040,DIC-10-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-4-9,S46063,DIC-10-A,leaf,Emelliodora_LB_Block10,A8,jg-4-9,none,
+P36040,DIC-10-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-4-9,S46063,DIC-10-A,leaf,Emelliodora_LB_Block10,A8,jg-4-9,none,failed—too few loci
 P36041,GUN-8-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-4-10,S46064,GUN-8-A,leaf,Emelliodora_LB_Block10,B8,jg-4-10,none,
 P36042,COL-10-A,A25384,COL,none,emel_prov,nature,Jugiong,A-4-11,S46065,COL-10-A,leaf,Emelliodora_LB_Block10,C8,jg-4-11,none,
 P36043,MUL-9-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-4-12,S46066,MUL-9-A,leaf,Emelliodora_LB_Block10,D8,jg-4-12,none,
@@ -1070,7 +1070,7 @@ P36044,HOLA-9-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-4-13,S46067,HOLA-9-A
 P36045,BAR-9-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-4-14,S46068,BAR-9-A,leaf,Emelliodora_LB_Block10,F8,jg-4-14,none,
 P36046,WAL-8-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-15,S46069,WAL-8-A,leaf,Emelliodora_LB_Block10,G8,jg-4-15,none,
 P36047,MUL-8-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-4-16,S46070,MUL-8-A,leaf,Emelliodora_LB_Block10,H8,jg-4-16,none,
-P36048,WAB-8-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-4-17,S46071,WAB-8-A,leaf,Emelliodora_LB_Block10,A9,jg-4-17,none,
+P36048,WAB-8-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-4-17,S46071,WAB-8-A,leaf,Emelliodora_LB_Block10,A9,jg-4-17,none,failed—too few loci
 P36049,HOLA-8-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-4-18,S46072,HOLA-8-A,leaf,Emelliodora_LB_Block10,B9,jg-4-18,none,
 P36050,JER-8-A,A25389,JER,none,emel_prov,nature,Jugiong,A-4-19,S46073,JER-8-A,leaf,Emelliodora_LB_Block10,C9,jg-4-19,none,
 P36051,MAR-8-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-4-20,S46074,MAR-8-A,leaf,Emelliodora_LB_Block10,D9,jg-4-20,none,
@@ -1078,7 +1078,7 @@ P36052,JUN-9-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-4-21,S46075,JUN-9-A,le
 P36053,MOR-9-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-4-22,S46076,MOR-9-A,leaf,Emelliodora_LB_Block10,F9,jg-4-22,none,
 P36054,JUN-7-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-4-23,S46077,JUN-7-A,leaf,Emelliodora_LB_Block10,G9,jg-4-23,none,
 P36055,WAB-9-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-4-24,S46078,WAB-9-A,leaf,Emelliodora_LB_Block10,H9,jg-4-24,none,
-P36056,HAR-9-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-4-25,S46079,HAR-9-A,leaf,Emelliodora_LB_Block10,A10,jg-4-25,none,
+P36056,HAR-9-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-4-25,S46079,HAR-9-A,leaf,Emelliodora_LB_Block10,A10,jg-4-25,none,failed—too few loci
 P36057,HAR-10-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-4-26,S46080,HAR-10-A,leaf,Emelliodora_LB_Block10,B10,jg-4-26,none,
 P36058,MAR-7-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-4-27,S46081,MAR-7-A,leaf,Emelliodora_LB_Block10,C10,jg-4-27,none,
 P36059,HOLB-10-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-4-28,S46082,HOLB-10-A,leaf,Emelliodora_LB_Block10,D10,jg-4-28,none,
@@ -1090,29 +1090,29 @@ P36064,CON-10-A,A25387,CON,none,emel_prov,nature,Jugiong,A-4-33,S46087,CON-10-A,
 P36065,HOLA-10-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-4-34,S46088,HOLA-10-A,leaf,Emelliodora_LB_Block10,B11,jg-4-34,none,
 P36066,MAJ-8-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-4-35,S46089,MAJ-8-A,leaf,Emelliodora_LB_Block10,C11,jg-4-35,none,
 P36067,GUN-9-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-4-36,S46090,GUN-9-A,leaf,Emelliodora_LB_Block10,D11,jg-4-36,none,
-P36068,BER-10-A,A25386,BER,none,emel_prov,nature,Jugiong,A-4-37,S46091,BER-10-A,leaf,Emelliodora_LB_Block10,E11,jg-4-37,none,
+P36068,BER-10-A,A25386,BER,none,emel_prov,nature,Jugiong,A-4-37,S46091,BER-10-A,leaf,Emelliodora_LB_Block10,E11,jg-4-37,none,failed—too few loci
 P36069,MOR-8-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-4-38,S46092,MOR-8-A,leaf,Emelliodora_LB_Block10,F11,jg-4-38,none,
-P36070,TEM-9-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-4-39,S46093,TEM-9-A,leaf,Emelliodora_LB_Block10,G11,jg-4-39,none,
+P36070,TEM-9-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-4-39,S46093,TEM-9-A,leaf,Emelliodora_LB_Block10,G11,jg-4-39,none,failed—too few reads
 P36071,RYE-10-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-4-40,S46094,RYE-10-A,leaf,Emelliodora_LB_Block10,H11,jg-4-40,none,
 P36072,BER-9-A,A25386,BER,none,emel_prov,nature,Jugiong,A-4-41,S46095,BER-9-A,leaf,Emelliodora_LB_Block10,A12,jg-4-41,none,
-P36073,JER-10-A,A25389,JER,none,emel_prov,nature,Jugiong,A-4-42,S46096,JER-10-A,leaf,Emelliodora_LB_Block10,B12,jg-4-42,none,
-P36074,WAL-9-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-43,S46097,WAL-9-A,leaf,Emelliodora_LB_Block10,C12,jg-4-43,none,
-P36075,WAL-10-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-44,S46098,WAL-10-A,leaf,Emelliodora_LB_Block10,D12,jg-4-44,none,
+P36073,JER-10-A,A25389,JER,none,emel_prov,nature,Jugiong,A-4-42,S46096,JER-10-A,leaf,Emelliodora_LB_Block10,B12,jg-4-42,none,failed—too few loci
+P36074,WAL-9-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-43,S46097,WAL-9-A,leaf,Emelliodora_LB_Block10,C12,jg-4-43,none,failed—too few loci
+P36075,WAL-10-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-44,S46098,WAL-10-A,leaf,Emelliodora_LB_Block10,D12,jg-4-44,none,failed—too few reads
 P36076,JUN-8-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-4-45,S46099,JUN-8-A,leaf,Emelliodora_LB_Block10,E12,jg-4-45,none,
-P36077,MAR-9-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-4-46,S46100,MAR-9-A,leaf,Emelliodora_LB_Block10,F12,jg-4-46,none,
+P36077,MAR-9-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-4-46,S46100,MAR-9-A,leaf,Emelliodora_LB_Block10,F12,jg-4-46,none,failed—too few reads
 P36078,MOR-7-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-4-47,S46101,MOR-7-A,leaf,Emelliodora_LB_Block10,G12,jg-4-47,none,
-P36079,BAR-7-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-4-48,S46102,BAR-7-A,leaf,Emelliodora_LB_Block10,H12,jg-4-48,none,
-P36080,CON-12-A,A25387,CON,none,emel_prov,nature,Jugiong,A-5-1,S46103,CON-12-A,leaf,Emelliodora_LB_Block11,A1,jg-5-1,none,
+P36079,BAR-7-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-4-48,S46102,BAR-7-A,leaf,Emelliodora_LB_Block10,H12,jg-4-48,none,failed—no reads
+P36080,CON-12-A,A25387,CON,none,emel_prov,nature,Jugiong,A-5-1,S46103,CON-12-A,leaf,Emelliodora_LB_Block11,A1,jg-5-1,none,failed—too few reads
 P36081,HOLA-12-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-5-2,S46104,HOLA-12-A,leaf,Emelliodora_LB_Block11,B1,jg-5-2,none,
 P36082,JER-11-A,A25389,JER,none,emel_prov,nature,Jugiong,A-5-3,S46105,JER-11-A,leaf,Emelliodora_LB_Block11,C1,jg-5-3,none,
 P36083,CON-11-A,A25387,CON,none,emel_prov,nature,Jugiong,A-5-4,S46106,CON-11-A,leaf,Emelliodora_LB_Block11,D1,jg-5-4,none,
 P36084,JUN-12-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-5-5,S46107,JUN-12-A,leaf,Emelliodora_LB_Block11,E1,jg-5-5,none,
 P36085,JUN-10-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-5-6,S46108,JUN-10-A,leaf,Emelliodora_LB_Block11,F1,jg-5-6,none,
 P36086,GUN-12-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-5-7,S46109,GUN-12-A,leaf,Emelliodora_LB_Block11,G1,jg-5-7,none,
-P36087,MUL-10-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-5-8,S46110,MUL-10-A,leaf,Emelliodora_LB_Block11,H1,jg-5-8,none,
+P36087,MUL-10-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-5-8,S46110,MUL-10-A,leaf,Emelliodora_LB_Block11,H1,jg-5-8,none,failed—too few reads
 P36088,DIC-12-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-5-9,S46111,DIC-12-A,leaf,Emelliodora_LB_Block11,A2,jg-5-9,none,
 P36089,MOR-12-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-5-10,S46112,MOR-12-A,leaf,Emelliodora_LB_Block11,B2,jg-5-10,none,
-P36090,MAJ-11-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-5-11,S46113,MAJ-11-A,leaf,Emelliodora_LB_Block11,C2,jg-5-11,none,
+P36090,MAJ-11-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-5-11,S46113,MAJ-11-A,leaf,Emelliodora_LB_Block11,C2,jg-5-11,none,failed—too few loci
 P36091,BAR-12-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-5-12,S46114,BAR-12-A,leaf,Emelliodora_LB_Block11,D2,jg-5-12,none,
 P36092,BAR-10-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-5-13,S46115,BAR-10-A,leaf,Emelliodora_LB_Block11,E2,jg-5-13,none,
 P36093,EUB-12-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-5-14,S46116,EUB-12-A,leaf,Emelliodora_LB_Block11,F2,jg-5-14,none,
@@ -1132,17 +1132,17 @@ P36106,HAR-12-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-5-27,S46129,HAR-12-A,
 P36107,MOR-11-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-5-28,S46130,MOR-11-A,leaf,Emelliodora_LB_Block11,D4,jg-5-28,none,
 P36108,BER-12-A,A25386,BER,none,emel_prov,nature,Jugiong,A-5-29,S46131,BER-12-A,leaf,Emelliodora_LB_Block11,E4,jg-5-29,none,
 P36109,HOLB-11-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-5-30,S46132,HOLB-11-A,leaf,Emelliodora_LB_Block11,F4,jg-5-30,none,
-P36110,DIC-11-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-5-31,S46133,DIC-11-A,leaf,Emelliodora_LB_Block11,G4,jg-5-31,none,
+P36110,DIC-11-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-5-31,S46133,DIC-11-A,leaf,Emelliodora_LB_Block11,G4,jg-5-31,none,failed—too few loci
 P36111,HAR-11-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-5-32,S46134,HAR-11-A,leaf,Emelliodora_LB_Block11,H4,jg-5-32,none,
 P36112,HOLB-12-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-5-33,S46135,HOLB-12-A,leaf,Emelliodora_LB_Block11,A5,jg-5-33,none,
 P36113,WAL-12-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-5-34,S46136,WAL-12-A,leaf,Emelliodora_LB_Block11,B5,jg-5-34,none,
-P36114,RYE-11-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-5-35,S46137,RYE-11-A,leaf,Emelliodora_LB_Block11,C5,jg-5-35,none,
+P36114,RYE-11-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-5-35,S46137,RYE-11-A,leaf,Emelliodora_LB_Block11,C5,jg-5-35,none,failed—too few loci
 P36115,TEM-12-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-5-36,S46138,TEM-12-A,leaf,Emelliodora_LB_Block11,D5,jg-5-36,none,
 P36116,TEM-11-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-5-37,S46139,TEM-11-A,leaf,Emelliodora_LB_Block11,E5,jg-5-37,none,
 P36117,MUL-11-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-5-38,S46140,MUL-11-A,leaf,Emelliodora_LB_Block11,F5,jg-5-38,none,
 P36118,MAR-11-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-5-39,S46141,MAR-11-A,leaf,Emelliodora_LB_Block11,G5,jg-5-39,none,
 P36119,GUN-10-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-5-40,S46142,GUN-10-A,leaf,Emelliodora_LB_Block11,H5,jg-5-40,none,
-P36120,WAB-11-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-5-41,S46143,WAB-11-A,leaf,Emelliodora_LB_Block11,A6,jg-5-41,none,
+P36120,WAB-11-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-5-41,S46143,WAB-11-A,leaf,Emelliodora_LB_Block11,A6,jg-5-41,none,failed—too few loci
 P36121,HOLA-11-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-5-42,S46144,HOLA-11-A,leaf,Emelliodora_LB_Block11,B6,jg-5-42,none,
 P36122,EUB-11-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-5-43,S46145,EUB-11-A,leaf,Emelliodora_LB_Block11,C6,jg-5-43,none,
 P36123,BER-11-A,A25386,BER,none,emel_prov,nature,Jugiong,A-5-44,S46146,BER-11-A,leaf,Emelliodora_LB_Block11,D6,jg-5-44,none,
@@ -1150,15 +1150,15 @@ P36124,MAR-12-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-5-45,S46147,MAR-12-A,
 P36125,RYE-12-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-5-46,S46148,RYE-12-A,leaf,Emelliodora_LB_Block11,F6,jg-5-46,none,
 P36126,MAJ-12-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-5-47,S46149,MAJ-12-A,leaf,Emelliodora_LB_Block11,G6,jg-5-47,none,
 P36127,MUL-12-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-5-48,S46150,MUL-12-A,leaf,Emelliodora_LB_Block11,H6,jg-5-48,none,
-P36128,WAB-14-B,A25392,WAB,none,emel_prov,nature,Gunning,B-1-1,S46151,WAB-14-B,leaf,Emelliodora_LB_Block11,A7,lfp-1-1,none,
-P36129,DIC-13-B,A25376,DIC,none,emel_prov,nature,Gunning,B-1-2,S46152,DIC-13-B,leaf,Emelliodora_LB_Block11,B7,lfp-1-2,none,
+P36128,WAB-14-B,A25392,WAB,none,emel_prov,nature,Gunning,B-1-1,S46151,WAB-14-B,leaf,Emelliodora_LB_Block11,A7,lfp-1-1,none,failed—too few loci
+P36129,DIC-13-B,A25376,DIC,none,emel_prov,nature,Gunning,B-1-2,S46152,DIC-13-B,leaf,Emelliodora_LB_Block11,B7,lfp-1-2,none,failed—too few loci
 P36130,JER-13-B,A25389,JER,none,emel_prov,nature,Gunning,B-1-3,S46153,JER-13-B,leaf,Emelliodora_LB_Block11,C7,lfp-1-3,none,
-P36131,HOLA-13-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-1-4,S46154,HOLA-13-B,leaf,Emelliodora_LB_Block11,D7,lfp-1-4,none,
+P36131,HOLA-13-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-1-4,S46154,HOLA-13-B,leaf,Emelliodora_LB_Block11,D7,lfp-1-4,none,failed—too few loci
 P36132,BAR-14-B,A25381,BAR,none,emel_prov,nature,Gunning,B-1-5,S46155,BAR-14-B,leaf,Emelliodora_LB_Block11,E7,lfp-1-5,none,
 P36133,EUB-14-B,A25383,EUB,none,emel_prov,nature,Gunning,B-1-6,S46156,EUB-14-B,leaf,Emelliodora_LB_Block11,F7,lfp-1-6,none,
 P36134,MAR-15-B,A25391,MAR,none,emel_prov,nature,Gunning,B-1-7,S46157,MAR-15-B,leaf,Emelliodora_LB_Block11,G7,lfp-1-7,none,
 P36135,MAR-13-B,A25391,MAR,none,emel_prov,nature,Gunning,B-1-8,S46158,MAR-13-B,leaf,Emelliodora_LB_Block11,H7,lfp-1-8,none,
-P36136,TEM-14-B,A25378,TEM,none,emel_prov,nature,Gunning,B-1-9,S46159,TEM-14-B,leaf,Emelliodora_LB_Block11,A8,lfp-1-9,none,
+P36136,TEM-14-B,A25378,TEM,none,emel_prov,nature,Gunning,B-1-9,S46159,TEM-14-B,leaf,Emelliodora_LB_Block11,A8,lfp-1-9,none,failed—too few loci
 P36137,BAR-13-B,A25381,BAR,none,emel_prov,nature,Gunning,B-1-10,S46160,BAR-13-B,leaf,Emelliodora_LB_Block11,B8,lfp-1-10,none,
 P36138,MAJ-14-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-1-11,S46161,MAJ-14-B,leaf,Emelliodora_LB_Block11,C8,lfp-1-11,none,
 P36139,GUN-15-B,A25382,GUN,none,emel_prov,nature,Gunning,B-1-12,S46162,GUN-15-B,leaf,Emelliodora_LB_Block11,D8,lfp-1-12,none,
@@ -1166,7 +1166,7 @@ P36140,JUN-13-B,A25379,JUN,none,emel_prov,nature,Gunning,B-1-13,S46163,JUN-13-B,
 P36141,RYE-15-B,A25373,RYE,none,emel_prov,nature,Gunning,B-1-14,S46164,RYE-15-B,leaf,Emelliodora_LB_Block11,F8,lfp-1-14,none,
 P36142,COL-13-B,A25384,COL,none,emel_prov,nature,Gunning,B-1-15,S46165,COL-13-B,leaf,Emelliodora_LB_Block11,G8,lfp-1-15,none,
 P36143,JER-14-B,A25389,JER,none,emel_prov,nature,Gunning,B-1-16,S46166,JER-14-B,leaf,Emelliodora_LB_Block11,H8,lfp-1-16,none,
-P36144,RYE-13-B,A25373,RYE,none,emel_prov,nature,Gunning,B-1-17,S46167,RYE-13-B,leaf,Emelliodora_LB_Block11,A9,lfp-1-17,none,
+P36144,RYE-13-B,A25373,RYE,none,emel_prov,nature,Gunning,B-1-17,S46167,RYE-13-B,leaf,Emelliodora_LB_Block11,A9,lfp-1-17,none,failed—too few loci
 P36145,GUN-13-B,A25382,GUN,none,emel_prov,nature,Gunning,B-1-18,S46168,GUN-13-B,leaf,Emelliodora_LB_Block11,B9,lfp-1-18,none,
 P36146,TEM-13-B,A25378,TEM,none,emel_prov,nature,Gunning,B-1-19,S46169,TEM-13-B,leaf,Emelliodora_LB_Block11,C9,lfp-1-19,none,
 P36147,WAL-14-B,A25380,WAL,none,emel_prov,nature,Gunning,B-1-20,S46170,WAL-14-B,leaf,Emelliodora_LB_Block11,D9,lfp-1-20,none,
@@ -1174,13 +1174,13 @@ P36148,DIC-15-B,A25376,DIC,none,emel_prov,nature,Gunning,B-1-21,S46171,DIC-15-B,
 P36149,CON-14-B,A25387,CON,none,emel_prov,nature,Gunning,B-1-22,S46172,CON-14-B,leaf,Emelliodora_LB_Block11,F9,lfp-1-22,none,
 P36150,JER-15-B,A25389,JER,none,emel_prov,nature,Gunning,B-1-23,S46173,JER-15-B,leaf,Emelliodora_LB_Block11,G9,lfp-1-23,none,
 P36151,EUB-13-B,A25383,EUB,none,emel_prov,nature,Gunning,B-1-24,S46174,EUB-13-B,leaf,Emelliodora_LB_Block11,H9,lfp-1-24,none,
-P36152,BER-13-B,A25386,BER,none,emel_prov,nature,Gunning,B-1-25,S46175,BER-13-B,leaf,Emelliodora_LB_Block11,A10,lfp-1-25,none,
+P36152,BER-13-B,A25386,BER,none,emel_prov,nature,Gunning,B-1-25,S46175,BER-13-B,leaf,Emelliodora_LB_Block11,A10,lfp-1-25,none,failed—too few loci
 P36153,MOR-13-B,A25385,MOR,none,emel_prov,nature,Gunning,B-1-26,S46176,MOR-13-B,leaf,Emelliodora_LB_Block11,B10,lfp-1-26,none,
-P36154,MUL-13-B,A25375,MUL,none,emel_prov,nature,Gunning,B-1-27,S46177,MUL-13-B,leaf,Emelliodora_LB_Block11,C10,lfp-1-27,none,
+P36154,MUL-13-B,A25375,MUL,none,emel_prov,nature,Gunning,B-1-27,S46177,MUL-13-B,leaf,Emelliodora_LB_Block11,C10,lfp-1-27,none,failed—too few reads
 P36155,MOR-14-B,A25385,MOR,none,emel_prov,nature,Gunning,B-1-28,S46178,MOR-14-B,leaf,Emelliodora_LB_Block11,D10,lfp-1-28,none,
-P36156,MAJ-13-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-1-29,S46179,MAJ-13-B,leaf,Emelliodora_LB_Block11,E10,lfp-1-29,none,
+P36156,MAJ-13-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-1-29,S46179,MAJ-13-B,leaf,Emelliodora_LB_Block11,E10,lfp-1-29,none,failed—too few reads
 P36157,BER-14-B,A25386,BER,none,emel_prov,nature,Gunning,B-1-30,S46180,BER-14-B,leaf,Emelliodora_LB_Block11,F10,lfp-1-30,none,
-P36158,WAL-13-B,A25380,WAL,none,emel_prov,nature,Gunning,B-1-31,S46181,WAL-13-B,leaf,Emelliodora_LB_Block11,G10,lfp-1-31,none,
+P36158,WAL-13-B,A25380,WAL,none,emel_prov,nature,Gunning,B-1-31,S46181,WAL-13-B,leaf,Emelliodora_LB_Block11,G10,lfp-1-31,none,failed—too few reads
 P36159,COL-14-B,A25384,COL,none,emel_prov,nature,Gunning,B-1-32,S46182,COL-14-B,leaf,Emelliodora_LB_Block11,H10,lfp-1-32,none,
 P36160,CON-13-B,A25387,CON,none,emel_prov,nature,Gunning,B-1-33,S46183,CON-13-B,leaf,Emelliodora_LB_Block11,A11,lfp-1-33,none,
 P36161,MAR-14-B,A25391,MAR,none,emel_prov,nature,Gunning,B-1-34,S46184,MAR-14-B,leaf,Emelliodora_LB_Block11,B11,lfp-1-34,none,
@@ -1197,7 +1197,7 @@ P36171,GUN-14-B,A25382,GUN,none,emel_prov,nature,Gunning,B-1-44,S46194,GUN-14-B,
 P36172,HAR-14-B,A25377,HAR,none,emel_prov,nature,Gunning,B-1-45,S46195,HAR-14-B,leaf,Emelliodora_LB_Block11,E12,lfp-1-45,none,
 P36173,JUN-14-B,A25379,JUN,none,emel_prov,nature,Gunning,B-1-46,S46196,JUN-14-B,leaf,Emelliodora_LB_Block11,F12,lfp-1-46,none,
 P36174,RYE-14-B,A25373,RYE,none,emel_prov,nature,Gunning,B-1-47,S46197,RYE-14-B,leaf,Emelliodora_LB_Block11,G12,lfp-1-47,none,
-P36175,CON-15-B,A25387,CON,none,emel_prov,nature,Gunning,B-1-48,S46198,CON-15-B,leaf,Emelliodora_LB_Block11,H12,lfp-1-48,none,
+P36175,CON-15-B,A25387,CON,none,emel_prov,nature,Gunning,B-1-48,S46198,CON-15-B,leaf,Emelliodora_LB_Block11,H12,lfp-1-48,none,failed—no reads
 P36176,EUB-15-B,A25383,EUB,none,emel_prov,nature,Gunning,B-2-1,S46199,EUB-15-B,leaf,Emelliodora_LB_Block12,A1,lfp-2-1,none,
 P36177,WAB-15-B,A25392,WAB,none,emel_prov,nature,Gunning,B-2-2,S46200,WAB-15-B,leaf,Emelliodora_LB_Block12,B1,lfp-2-2,none,
 P36178,RYE-16-B,A25373,RYE,none,emel_prov,nature,Gunning,B-2-3,S46201,RYE-16-B,leaf,Emelliodora_LB_Block12,C1,lfp-2-3,none,
@@ -1205,10 +1205,10 @@ P36179,MAR-17-B,A25391,MAR,none,emel_prov,nature,Gunning,B-2-4,S46202,MAR-17-B,l
 P36180,JER-18-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-5,S46203,JER-18-B,leaf,Emelliodora_LB_Block12,E1,lfp-2-5,none,
 P36181,BER-15-B,A25386,BER,none,emel_prov,nature,Gunning,B-2-6,S46204,BER-15-B,leaf,Emelliodora_LB_Block12,F1,lfp-2-6,none,
 P36182,CON-18-B,A25387,CON,none,emel_prov,nature,Gunning,B-2-7,S46205,CON-18-B,leaf,Emelliodora_LB_Block12,G1,lfp-2-7,none,
-P36183,MAR-18-B,A25391,MAR,none,emel_prov,nature,Gunning,B-2-8,S46206,MAR-18-B,leaf,Emelliodora_LB_Block12,H1,lfp-2-8,none,
+P36183,MAR-18-B,A25391,MAR,none,emel_prov,nature,Gunning,B-2-8,S46206,MAR-18-B,leaf,Emelliodora_LB_Block12,H1,lfp-2-8,none,failed—too few reads
 P36184,WAL-16-B,A25380,WAL,none,emel_prov,nature,Gunning,B-2-9,S46207,WAL-16-B,leaf,Emelliodora_LB_Block12,A2,lfp-2-9,none,
 P36185,DIC-16-B,A25376,DIC,none,emel_prov,nature,Gunning,B-2-10,S46208,DIC-16-B,leaf,Emelliodora_LB_Block12,B2,lfp-2-10,none,
-P36186,JER-17-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-11,S46209,JER-17-B,leaf,Emelliodora_LB_Block12,C2,lfp-2-11,none,
+P36186,JER-17-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-11,S46209,JER-17-B,leaf,Emelliodora_LB_Block12,C2,lfp-2-11,none,failed—too few loci
 P36187,CON-17-B,A25387,CON,none,emel_prov,nature,Gunning,B-2-12,S46210,CON-17-B,leaf,Emelliodora_LB_Block12,D2,lfp-2-12,none,
 P36188,COL-15-B,A25384,COL,none,emel_prov,nature,Gunning,B-2-13,S46211,COL-15-B,leaf,Emelliodora_LB_Block12,E2,lfp-2-13,none,
 P36189,GUN-17-B,A25382,GUN,none,emel_prov,nature,Gunning,B-2-14,S46212,GUN-17-B,leaf,Emelliodora_LB_Block12,F2,lfp-2-14,none,
@@ -1232,13 +1232,13 @@ P36206,TEM-16-B,A25378,TEM,none,emel_prov,nature,Gunning,B-2-31,S46229,TEM-16-B,
 P36207,HOLA-15-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-2-32,S46230,HOLA-15-B,leaf,Emelliodora_LB_Block12,H4,lfp-2-32,none,
 P36208,MAJ-16-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-2-33,S46231,MAJ-16-B,leaf,Emelliodora_LB_Block12,A5,lfp-2-33,none,
 P36209,BAR-17-B,A25381,BAR,none,emel_prov,nature,Gunning,B-2-34,S46232,BAR-17-B,leaf,Emelliodora_LB_Block12,B5,lfp-2-34,none,
-P36210,JER-16-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-35,S46233,JER-16-B,leaf,Emelliodora_LB_Block12,C5,lfp-2-35,none,
+P36210,JER-16-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-35,S46233,JER-16-B,leaf,Emelliodora_LB_Block12,C5,lfp-2-35,none,failed—too few loci
 P36211,MAR-16-B,A25391,MAR,none,emel_prov,nature,Gunning,B-2-36,S46234,MAR-16-B,leaf,Emelliodora_LB_Block12,D5,lfp-2-36,none,
 P36212,BER-16-B,A25386,BER,none,emel_prov,nature,Gunning,B-2-37,S46235,BER-16-B,leaf,Emelliodora_LB_Block12,E5,lfp-2-37,none,
 P36213,DIC-17-B,A25376,DIC,none,emel_prov,nature,Gunning,B-2-38,S46236,DIC-17-B,leaf,Emelliodora_LB_Block12,F5,lfp-2-38,none,
 P36214,MUL-16-B,A25375,MUL,none,emel_prov,nature,Gunning,B-2-39,S46237,MUL-16-B,leaf,Emelliodora_LB_Block12,G5,lfp-2-39,none,
 P36215,EUB-16-B,A25383,EUB,none,emel_prov,nature,Gunning,B-2-40,S46238,EUB-16-B,leaf,Emelliodora_LB_Block12,H5,lfp-2-40,none,
-P36216,JUN-16-B,A25379,JUN,none,emel_prov,nature,Gunning,B-2-41,S46239,JUN-16-B,leaf,Emelliodora_LB_Block12,A6,lfp-2-41,none,
+P36216,JUN-16-B,A25379,JUN,none,emel_prov,nature,Gunning,B-2-41,S46239,JUN-16-B,leaf,Emelliodora_LB_Block12,A6,lfp-2-41,none,failed—too few loci
 P36217,MUL-17-B,A25375,MUL,none,emel_prov,nature,Gunning,B-2-42,S46240,MUL-17-B,leaf,Emelliodora_LB_Block12,B6,lfp-2-42,none,
 P36218,HAR-16-B,A25377,HAR,none,emel_prov,nature,Gunning,B-2-43,S46241,HAR-16-B,leaf,Emelliodora_LB_Block12,C6,lfp-2-43,none,
 P36219,TEM-15-B,A25378,TEM,none,emel_prov,nature,Gunning,B-2-44,S46242,TEM-15-B,leaf,Emelliodora_LB_Block12,D6,lfp-2-44,none,
@@ -1246,7 +1246,7 @@ P36220,DIC-18-B,A25376,DIC,none,emel_prov,nature,Gunning,B-2-45,S46243,DIC-18-B,
 P36221,BAR-16-B,A25381,BAR,none,emel_prov,nature,Gunning,B-2-46,S46244,BAR-16-B,leaf,Emelliodora_LB_Block12,F6,lfp-2-46,none,
 P36222,WAL-15-B,A25380,WAL,none,emel_prov,nature,Gunning,B-2-47,S46245,WAL-15-B,leaf,Emelliodora_LB_Block12,G6,lfp-2-47,none,
 P36223,MAJ-15-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-2-48,S46246,MAJ-15-B,leaf,Emelliodora_LB_Block12,H6,lfp-2-48,none,
-P36224,HOLA-17-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-3-1,S46247,HOLA-17-B,leaf,Emelliodora_LB_Block12,A7,lfp-3-1,none,
+P36224,HOLA-17-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-3-1,S46247,HOLA-17-B,leaf,Emelliodora_LB_Block12,A7,lfp-3-1,none,failed—too few loci
 P36225,HOLA-18-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-3-2,S46248,HOLA-18-B,leaf,Emelliodora_LB_Block12,B7,lfp-3-2,none,
 P36226,JUN-20-B,A25379,JUN,none,emel_prov,nature,Gunning,B-3-3,S46249,JUN-20-B,leaf,Emelliodora_LB_Block12,C7,lfp-3-3,none,
 P36227,JUN-19-B,A25379,JUN,none,emel_prov,nature,Gunning,B-3-4,S46250,JUN-19-B,leaf,Emelliodora_LB_Block12,D7,lfp-3-4,none,
@@ -1254,7 +1254,7 @@ P36228,BER-20-B,A25386,BER,none,emel_prov,nature,Gunning,B-3-5,S46251,BER-20-B,l
 P36229,DIC-20-B,A25376,DIC,none,emel_prov,nature,Gunning,B-3-6,S46252,DIC-20-B,leaf,Emelliodora_LB_Block12,F7,lfp-3-6,none,
 P36230,WAB-18-B,A25392,WAB,none,emel_prov,nature,Gunning,B-3-7,S46253,WAB-18-B,leaf,Emelliodora_LB_Block12,G7,lfp-3-7,none,
 P36231,MAR-19-B,A25391,MAR,none,emel_prov,nature,Gunning,B-3-8,S46254,MAR-19-B,leaf,Emelliodora_LB_Block12,H7,lfp-3-8,none,
-P36232,COL-17-B,A25384,COL,none,emel_prov,nature,Gunning,B-3-9,S46255,COL-17-B,leaf,Emelliodora_LB_Block12,A8,lfp-3-9,none,
+P36232,COL-17-B,A25384,COL,none,emel_prov,nature,Gunning,B-3-9,S46255,COL-17-B,leaf,Emelliodora_LB_Block12,A8,lfp-3-9,none,failed—too few loci
 P36233,MAJ-18-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-3-10,S46256,MAJ-18-B,leaf,Emelliodora_LB_Block12,B8,lfp-3-10,none,
 P36234,MAJ-17-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-3-11,S46257,MAJ-17-B,leaf,Emelliodora_LB_Block12,C8,lfp-3-11,none,
 P36235,HAR-19-B,A25377,HAR,none,emel_prov,nature,Gunning,B-3-12,S46258,HAR-19-B,leaf,Emelliodora_LB_Block12,D8,lfp-3-12,none,
@@ -1262,7 +1262,7 @@ P36236,MUL-20-B,A25375,MUL,none,emel_prov,nature,Gunning,B-3-13,S46259,MUL-20-B,
 P36237,JUN-18-B,A25379,JUN,none,emel_prov,nature,Gunning,B-3-14,S46260,JUN-18-B,leaf,Emelliodora_LB_Block12,F8,lfp-3-14,none,
 P36238,HOLB-19-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-3-15,S46261,HOLB-19-B,leaf,Emelliodora_LB_Block12,G8,lfp-3-15,none,
 P36239,MOR-17-B,A25385,MOR,none,emel_prov,nature,Gunning,B-3-16,S46262,MOR-17-B,leaf,Emelliodora_LB_Block12,H8,lfp-3-16,none,
-P36240,WAB-17-B,A25392,WAB,none,emel_prov,nature,Gunning,B-3-17,S46263,WAB-17-B,leaf,Emelliodora_LB_Block12,A9,lfp-3-17,none,
+P36240,WAB-17-B,A25392,WAB,none,emel_prov,nature,Gunning,B-3-17,S46263,WAB-17-B,leaf,Emelliodora_LB_Block12,A9,lfp-3-17,none,failed—too few loci
 P36241,BAR-18-B,A25381,BAR,none,emel_prov,nature,Gunning,B-3-18,S46264,BAR-18-B,leaf,Emelliodora_LB_Block12,B9,lfp-3-18,none,
 P36242,JER-19-B,A25389,JER,none,emel_prov,nature,Gunning,B-3-19,S46265,JER-19-B,leaf,Emelliodora_LB_Block12,C9,lfp-3-19,none,
 P36243,CON-20-B,A25387,CON,none,emel_prov,nature,Gunning,B-3-20,S46266,CON-20-B,leaf,Emelliodora_LB_Block12,D9,lfp-3-20,none,
@@ -1270,11 +1270,11 @@ P36244,EUB-18-B,A25383,EUB,none,emel_prov,nature,Gunning,B-3-21,S46267,EUB-18-B,
 P36245,TEM-17-B,A25378,TEM,none,emel_prov,nature,Gunning,B-3-22,S46268,TEM-17-B,leaf,Emelliodora_LB_Block12,F9,lfp-3-22,none,
 P36246,RYE-19-B,A25373,RYE,none,emel_prov,nature,Gunning,B-3-23,S46269,RYE-19-B,leaf,Emelliodora_LB_Block12,G9,lfp-3-23,none,
 P36247,BER-19-B,A25386,BER,none,emel_prov,nature,Gunning,B-3-24,S46270,BER-19-B,leaf,Emelliodora_LB_Block12,H9,lfp-3-24,none,
-P36248,MAR-20-B,A25391,MAR,none,emel_prov,nature,Gunning,B-3-25,S46271,MAR-20-B,leaf,Emelliodora_LB_Block12,A10,lfp-3-25,none,
+P36248,MAR-20-B,A25391,MAR,none,emel_prov,nature,Gunning,B-3-25,S46271,MAR-20-B,leaf,Emelliodora_LB_Block12,A10,lfp-3-25,none,failed—too few loci
 P36249,CON-19-B,A25387,CON,none,emel_prov,nature,Gunning,B-3-26,S46272,CON-19-B,leaf,Emelliodora_LB_Block12,B10,lfp-3-26,none,
 P36250,GUN-19-B,A25382,GUN,none,emel_prov,nature,Gunning,B-3-27,S46273,GUN-19-B,leaf,Emelliodora_LB_Block12,C10,lfp-3-27,none,
 P36251,MUL-18-B,A25375,MUL,none,emel_prov,nature,Gunning,B-3-28,S46274,MUL-18-B,leaf,Emelliodora_LB_Block12,D10,lfp-3-28,none,
-P36252,WAL-17-B,A25380,WAL,none,emel_prov,nature,Gunning,B-3-29,S46275,WAL-17-B,leaf,Emelliodora_LB_Block12,E10,lfp-3-29,none,
+P36252,WAL-17-B,A25380,WAL,none,emel_prov,nature,Gunning,B-3-29,S46275,WAL-17-B,leaf,Emelliodora_LB_Block12,E10,lfp-3-29,none,failed—too few loci
 P36253,MOR-18-B,A25385,MOR,none,emel_prov,nature,Gunning,B-3-30,S46276,MOR-18-B,leaf,Emelliodora_LB_Block12,F10,lfp-3-30,none,
 P36254,TEM-18-B,A25378,TEM,none,emel_prov,nature,Gunning,B-3-31,S46277,TEM-18-B,leaf,Emelliodora_LB_Block12,G10,lfp-3-31,none,
 P36255,GUN-18-B,A25382,GUN,none,emel_prov,nature,Gunning,B-3-32,S46278,GUN-18-B,leaf,Emelliodora_LB_Block12,H10,lfp-3-32,none,
@@ -1293,7 +1293,7 @@ P36267,DIC-19-B,A25376,DIC,none,emel_prov,nature,Gunning,B-3-44,S46290,DIC-19-B,
 P36268,HAR-18-B,A25377,HAR,none,emel_prov,nature,Gunning,B-3-45,S46291,HAR-18-B,leaf,Emelliodora_LB_Block12,E12,lfp-3-45,none,
 P36269,COL-18-B,A25384,COL,none,emel_prov,nature,Gunning,B-3-46,S46292,COL-18-B,leaf,Emelliodora_LB_Block12,F12,lfp-3-46,none,
 P36270,HOLA-19-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-3-47,S46293,HOLA-19-B,leaf,Emelliodora_LB_Block12,G12,lfp-3-47,none,
-P36271,MUL-19-B,A25375,MUL,none,emel_prov,nature,Gunning,B-3-48,S46294,MUL-19-B,leaf,Emelliodora_LB_Block12,H12,lfp-3-48,none,
+P36271,MUL-19-B,A25375,MUL,none,emel_prov,nature,Gunning,B-3-48,S46294,MUL-19-B,leaf,Emelliodora_LB_Block12,H12,lfp-3-48,none,failed—no reads
 P36272,HOLA-22-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-4-1,S46295,HOLA-22-B,leaf,Emelliodora_LB_Block13,A1,lfp-4-1,none,
 P36273,EUB-20-B,A25383,EUB,none,emel_prov,nature,Gunning,B-4-2,S46296,EUB-20-B,leaf,Emelliodora_LB_Block13,B1,lfp-4-2,none,
 P36274,MUL-22-B,A25375,MUL,none,emel_prov,nature,Gunning,B-4-3,S46297,MUL-22-B,leaf,Emelliodora_LB_Block13,C1,lfp-4-3,none,
@@ -1301,10 +1301,10 @@ P36275,WAL-21-B,A25380,WAL,none,emel_prov,nature,Gunning,B-4-4,S46298,WAL-21-B,l
 P36276,MAJ-20-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-4-5,S46299,MAJ-20-B,leaf,Emelliodora_LB_Block13,E1,lfp-4-5,none,
 P36277,WAB-21-B,A25392,WAB,none,emel_prov,nature,Gunning,B-4-6,S46300,WAB-21-B,leaf,Emelliodora_LB_Block13,F1,lfp-4-6,none,
 P36278,COL-19-B,A25384,COL,none,emel_prov,nature,Gunning,B-4-7,S46301,COL-19-B,leaf,Emelliodora_LB_Block13,G1,lfp-4-7,none,
-P36279,MOR-20-B,A25385,MOR,none,emel_prov,nature,Gunning,B-4-8,S46302,MOR-20-B,leaf,Emelliodora_LB_Block13,H1,lfp-4-8,none,
+P36279,MOR-20-B,A25385,MOR,none,emel_prov,nature,Gunning,B-4-8,S46302,MOR-20-B,leaf,Emelliodora_LB_Block13,H1,lfp-4-8,none,failed—too few reads
 P36280,DIC-22-B,A25376,DIC,none,emel_prov,nature,Gunning,B-4-9,S46303,DIC-22-B,leaf,Emelliodora_LB_Block13,A2,lfp-4-9,none,
 P36281,HOLB-22-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-4-10,S46304,HOLB-22-B,leaf,Emelliodora_LB_Block13,B2,lfp-4-10,none,
-P36282,COL-21-B,A25384,COL,none,emel_prov,nature,Gunning,B-4-11,S46305,COL-21-B,leaf,Emelliodora_LB_Block13,C2,lfp-4-11,none,
+P36282,COL-21-B,A25384,COL,none,emel_prov,nature,Gunning,B-4-11,S46305,COL-21-B,leaf,Emelliodora_LB_Block13,C2,lfp-4-11,none,failed—too few loci
 P36283,TEM-20-B,A25378,TEM,none,emel_prov,nature,Gunning,B-4-12,S46306,TEM-20-B,leaf,Emelliodora_LB_Block13,D2,lfp-4-12,none,
 P36284,GUN-20-B,A25382,GUN,none,emel_prov,nature,Gunning,B-4-13,S46307,GUN-20-B,leaf,Emelliodora_LB_Block13,E2,lfp-4-13,none,
 P36285,MOR-22-B,A25385,MOR,none,emel_prov,nature,Gunning,B-4-14,S46308,MOR-22-B,leaf,Emelliodora_LB_Block13,F2,lfp-4-14,none,
@@ -1328,13 +1328,13 @@ P36302,RYE-20-B,A25373,RYE,none,emel_prov,nature,Gunning,B-4-31,S46325,RYE-20-B,
 P36303,HOLB-21-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-4-32,S46326,HOLB-21-B,leaf,Emelliodora_LB_Block13,H4,lfp-4-32,none,
 P36304,WAL-19-B,A25380,WAL,none,emel_prov,nature,Gunning,B-4-33,S46327,WAL-19-B,leaf,Emelliodora_LB_Block13,A5,lfp-4-33,none,
 P36305,BAR-20-B,A25381,BAR,none,emel_prov,nature,Gunning,B-4-34,S46328,BAR-20-B,leaf,Emelliodora_LB_Block13,B5,lfp-4-34,none,
-P36306,MUL-21-B,A25375,MUL,none,emel_prov,nature,Gunning,B-4-35,S46329,MUL-21-B,leaf,Emelliodora_LB_Block13,C5,lfp-4-35,none,
+P36306,MUL-21-B,A25375,MUL,none,emel_prov,nature,Gunning,B-4-35,S46329,MUL-21-B,leaf,Emelliodora_LB_Block13,C5,lfp-4-35,none,failed—too few loci
 P36307,WAB-20-B,A25392,WAB,none,emel_prov,nature,Gunning,B-4-36,S46330,WAB-20-B,leaf,Emelliodora_LB_Block13,D5,lfp-4-36,none,
 P36308,HOLA-21-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-4-37,S46331,HOLA-21-B,leaf,Emelliodora_LB_Block13,E5,lfp-4-37,none,
 P36309,JER-21-B,A25389,JER,none,emel_prov,nature,Gunning,B-4-38,S46332,JER-21-B,leaf,Emelliodora_LB_Block13,F5,lfp-4-38,none,
 P36310,MAJ-22-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-4-39,S46333,MAJ-22-B,leaf,Emelliodora_LB_Block13,G5,lfp-4-39,none,
 P36311,COL-20-B,A25384,COL,none,emel_prov,nature,Gunning,B-4-40,S46334,COL-20-B,leaf,Emelliodora_LB_Block13,H5,lfp-4-40,none,
-P36312,WAL-20-B,A25380,WAL,none,emel_prov,nature,Gunning,B-4-41,S46335,WAL-20-B,leaf,Emelliodora_LB_Block13,A6,lfp-4-41,none,
+P36312,WAL-20-B,A25380,WAL,none,emel_prov,nature,Gunning,B-4-41,S46335,WAL-20-B,leaf,Emelliodora_LB_Block13,A6,lfp-4-41,none,failed—too few loci
 P36313,JER-22-B,A25389,JER,none,emel_prov,nature,Gunning,B-4-42,S46336,JER-22-B,leaf,Emelliodora_LB_Block13,B6,lfp-4-42,none,
 P36314,HAR-20-B,A25377,HAR,none,emel_prov,nature,Gunning,B-4-43,S46337,HAR-20-B,leaf,Emelliodora_LB_Block13,C6,lfp-4-43,none,
 P36315,HAR-21-B,A25377,HAR,none,emel_prov,nature,Gunning,B-4-44,S46338,HAR-21-B,leaf,Emelliodora_LB_Block13,D6,lfp-4-44,none,
@@ -1342,15 +1342,15 @@ P36316,GUN-21-B,A25382,GUN,none,emel_prov,nature,Gunning,B-4-45,S46339,GUN-21-B,
 P36317,EUB-21-B,A25383,EUB,none,emel_prov,nature,Gunning,B-4-46,S46340,EUB-21-B,leaf,Emelliodora_LB_Block13,F6,lfp-4-46,none,
 P36318,MAR-22-B,A25391,MAR,none,emel_prov,nature,Gunning,B-4-47,S46341,MAR-22-B,leaf,Emelliodora_LB_Block13,G6,lfp-4-47,none,
 P36319,MAR-21-B,A25391,MAR,none,emel_prov,nature,Gunning,B-4-48,S46342,MAR-21-B,leaf,Emelliodora_LB_Block13,H6,lfp-4-48,none,
-P36320,MUL-23-B,A25375,MUL,none,emel_prov,nature,Gunning,B-5-1,S46343,MUL-23-B,leaf,Emelliodora_LB_Block13,A7,lfp-5-1,none,
+P36320,MUL-23-B,A25375,MUL,none,emel_prov,nature,Gunning,B-5-1,S46343,MUL-23-B,leaf,Emelliodora_LB_Block13,A7,lfp-5-1,none,failed—too few loci
 P36321,TEM-22-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-2,S46344,TEM-22-B,leaf,Emelliodora_LB_Block13,B7,lfp-5-2,none,
 P36322,CON-24-B,A25387,CON,none,emel_prov,nature,Gunning,B-5-3,S46345,CON-24-B,leaf,Emelliodora_LB_Block13,C7,lfp-5-3,none,
-P36323,MAR-24-B,A25391,MAR,none,emel_prov,nature,Gunning,B-5-4,S46346,MAR-24-B,leaf,Emelliodora_LB_Block13,D7,lfp-5-4,none,
+P36323,MAR-24-B,A25391,MAR,none,emel_prov,nature,Gunning,B-5-4,S46346,MAR-24-B,leaf,Emelliodora_LB_Block13,D7,lfp-5-4,none,failed—too few loci
 P36324,BAR-24-B,A25381,BAR,none,emel_prov,nature,Gunning,B-5-5,S46347,BAR-24-B,leaf,Emelliodora_LB_Block13,E7,lfp-5-5,none,
 P36325,MOR-23-B,A25385,MOR,none,emel_prov,nature,Gunning,B-5-6,S46348,MOR-23-B,leaf,Emelliodora_LB_Block13,F7,lfp-5-6,none,
 P36326,DIC-24-B,A25376,DIC,none,emel_prov,nature,Gunning,B-5-7,S46349,DIC-24-B,leaf,Emelliodora_LB_Block13,G7,lfp-5-7,none,
 P36327,HAR-24-B,A25377,HAR,none,emel_prov,nature,Gunning,B-5-8,S46350,HAR-24-B,leaf,Emelliodora_LB_Block13,H7,lfp-5-8,none,
-P36328,RYE-24-B,A25373,RYE,none,emel_prov,nature,Gunning,B-5-9,S46351,RYE-24-B,leaf,Emelliodora_LB_Block13,A8,lfp-5-9,none,
+P36328,RYE-24-B,A25373,RYE,none,emel_prov,nature,Gunning,B-5-9,S46351,RYE-24-B,leaf,Emelliodora_LB_Block13,A8,lfp-5-9,none,failed—too few loci
 P36329,WAL-22-B,A25380,WAL,none,emel_prov,nature,Gunning,B-5-10,S46352,WAL-22-B,leaf,Emelliodora_LB_Block13,B8,lfp-5-10,none,
 P36330,HOLA-23-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-5-11,S46353,HOLA-23-B,leaf,Emelliodora_LB_Block13,C8,lfp-5-11,none,
 P36331,HAR-22-B,A25377,HAR,none,emel_prov,nature,Gunning,B-5-12,S46354,HAR-22-B,leaf,Emelliodora_LB_Block13,D8,lfp-5-12,none,
@@ -1358,7 +1358,7 @@ P36332,RYE-23-B,A25373,RYE,none,emel_prov,nature,Gunning,B-5-13,S46355,RYE-23-B,
 P36333,HOLB-24-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-5-14,S46356,HOLB-24-B,leaf,Emelliodora_LB_Block13,F8,lfp-5-14,none,
 P36334,COL-22-B,A25384,COL,none,emel_prov,nature,Gunning,B-5-15,S46357,COL-22-B,leaf,Emelliodora_LB_Block13,G8,lfp-5-15,none,
 P36335,BAR-22-B,A25381,BAR,none,emel_prov,nature,Gunning,B-5-16,S46358,BAR-22-B,leaf,Emelliodora_LB_Block13,H8,lfp-5-16,none,
-P36336,COL-24-B,A25384,COL,none,emel_prov,nature,Gunning,B-5-17,S46359,COL-24-B,leaf,Emelliodora_LB_Block13,A9,lfp-5-17,none,
+P36336,COL-24-B,A25384,COL,none,emel_prov,nature,Gunning,B-5-17,S46359,COL-24-B,leaf,Emelliodora_LB_Block13,A9,lfp-5-17,none,failed—too few loci
 P36337,EUB-22-B,A25383,EUB,none,emel_prov,nature,Gunning,B-5-18,S46360,EUB-22-B,leaf,Emelliodora_LB_Block13,B9,lfp-5-18,none,
 P36338,EUB-24-B,A25383,EUB,none,emel_prov,nature,Gunning,B-5-19,S46361,EUB-24-B,leaf,Emelliodora_LB_Block13,C9,lfp-5-19,none,
 P36339,BAR-23-B,A25381,BAR,none,emel_prov,nature,Gunning,B-5-20,S46362,BAR-23-B,leaf,Emelliodora_LB_Block13,D9,lfp-5-20,none,
@@ -1366,7 +1366,7 @@ P36340,COL-23-B,A25384,COL,none,emel_prov,nature,Gunning,B-5-21,S46363,COL-23-B,
 P36341,MAR-23-B,A25391,MAR,none,emel_prov,nature,Gunning,B-5-22,S46364,MAR-23-B,leaf,Emelliodora_LB_Block13,F9,lfp-5-22,none,
 P36342,GUN-23-B,A25382,GUN,none,emel_prov,nature,Gunning,B-5-23,S46365,GUN-23-B,leaf,Emelliodora_LB_Block13,G9,lfp-5-23,none,
 P36343,WAL-24-B,A25380,WAL,none,emel_prov,nature,Gunning,B-5-24,S46366,WAL-24-B,leaf,Emelliodora_LB_Block13,H9,lfp-5-24,none,
-P36344,GUN-24-B,A25382,GUN,none,emel_prov,nature,Gunning,B-5-25,S46367,GUN-24-B,leaf,Emelliodora_LB_Block13,A10,lfp-5-25,none,
+P36344,GUN-24-B,A25382,GUN,none,emel_prov,nature,Gunning,B-5-25,S46367,GUN-24-B,leaf,Emelliodora_LB_Block13,A10,lfp-5-25,none,failed—too few loci
 P36345,MUL-24-B,A25375,MUL,none,emel_prov,nature,Gunning,B-5-26,S46368,MUL-24-B,leaf,Emelliodora_LB_Block13,B10,lfp-5-26,none,
 P36346,MAJ-23-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-5-27,S46369,MAJ-23-B,leaf,Emelliodora_LB_Block13,C10,lfp-5-27,none,
 P36347,WAL-23-B,A25380,WAL,none,emel_prov,nature,Gunning,B-5-28,S46370,WAL-23-B,leaf,Emelliodora_LB_Block13,D10,lfp-5-28,none,
@@ -1383,10 +1383,10 @@ P36357,GUN-22-B,A25382,GUN,none,emel_prov,nature,Gunning,B-5-38,S46380,GUN-22-B,
 P36358,HOLB-23-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-5-39,S46381,HOLB-23-B,leaf,Emelliodora_LB_Block13,G11,lfp-5-39,none,
 P36359,HAR-23-B,A25377,HAR,none,emel_prov,nature,Gunning,B-5-40,S46382,HAR-23-B,leaf,Emelliodora_LB_Block13,H11,lfp-5-40,none,
 P36360,JUN-24-B,A25379,JUN,none,emel_prov,nature,Gunning,B-5-41,S46383,JUN-24-B,leaf,Emelliodora_LB_Block13,A12,lfp-5-41,none,
-P36361,DIC-23-B,A25376,DIC,none,emel_prov,nature,Gunning,B-5-42,S46384,DIC-23-B,leaf,Emelliodora_LB_Block13,B12,lfp-5-42,none,
-P36362,JER-24-B,A25389,JER,none,emel_prov,nature,Gunning,B-5-43,S46385,JER-24-B,leaf,Emelliodora_LB_Block13,C12,lfp-5-43,none,
-P36363,TEM-24-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-44,S46386,TEM-24-B,leaf,Emelliodora_LB_Block13,D12,lfp-5-44,none,
-P36364,MOR-24-B,A25385,MOR,none,emel_prov,nature,Gunning,B-5-45,S46387,MOR-24-B,leaf,Emelliodora_LB_Block13,E12,lfp-5-45,none,
-P36365,TEM-23-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-46,S46388,TEM-23-B,leaf,Emelliodora_LB_Block13,F12,lfp-5-46,none,
-P36366,JER-23-B,A25389,JER,none,emel_prov,nature,Gunning,B-5-47,S46389,JER-23-B,leaf,Emelliodora_LB_Block13,G12,lfp-5-47,none,
-P36367,HOLA-24-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-5-48,S46390,HOLA-24-B,leaf,Emelliodora_LB_Block13,H12,lfp-5-48,none,
+P36361,DIC-23-B,A25376,DIC,none,emel_prov,nature,Gunning,B-5-42,S46384,DIC-23-B,leaf,Emelliodora_LB_Block13,B12,lfp-5-42,none,failed—too few loci
+P36362,JER-24-B,A25389,JER,none,emel_prov,nature,Gunning,B-5-43,S46385,JER-24-B,leaf,Emelliodora_LB_Block13,C12,lfp-5-43,none,failed—too few loci
+P36363,TEM-24-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-44,S46386,TEM-24-B,leaf,Emelliodora_LB_Block13,D12,lfp-5-44,none,failed—too few reads
+P36364,MOR-24-B,A25385,MOR,none,emel_prov,nature,Gunning,B-5-45,S46387,MOR-24-B,leaf,Emelliodora_LB_Block13,E12,lfp-5-45,none,failed—too few reads
+P36365,TEM-23-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-46,S46388,TEM-23-B,leaf,Emelliodora_LB_Block13,F12,lfp-5-46,none,failed—too few reads
+P36366,JER-23-B,A25389,JER,none,emel_prov,nature,Gunning,B-5-47,S46389,JER-23-B,leaf,Emelliodora_LB_Block13,G12,lfp-5-47,none,failed—too few loci
+P36367,HOLA-24-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-5-48,S46390,HOLA-24-B,leaf,Emelliodora_LB_Block13,H12,lfp-5-48,none,failed—no reads
